@@ -37,6 +37,8 @@ This guide provides practical information for implementing a turntable compatibl
 
 ### I2C Connection
 
+When looking at the back of the THREE, PIN 1 is on the far right side. 
+
 | Pin | Name | Value |
 |------------|------|-------|
 | 1 | PWR | 12V Supply from THREE     |

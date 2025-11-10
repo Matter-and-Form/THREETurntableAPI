@@ -7,6 +7,18 @@ A quick reference for the THREE Turntable I2C Protocol.
 - **Bus Speed**: 10 kHz
 - **CRC Polynomial**: `0x07`
 
+### I2C Connection
+
+When looking at the back of the THREE, PIN 1 is on the far right side. 
+
+| Pin | Name | Value |
+|------------|------|-------|
+| 1 | PWR | 12V Supply from THREE     |
+| 2 | GND | Ground |
+| 3 | DET | 5V Detection (Active pull to GND) |
+| 4 | SCL | 5V Clock |
+| 5 | SDA | 5V Data |
+
 ## Commands Quick Reference
 
 | Cmd | Name | Write Format | Read Format |
