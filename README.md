@@ -6,13 +6,13 @@ This documentation describes the I2C communication protocol used by the Matter a
 
 This API documentation is organized into the following sections:
 
-1. **[Protocol Specification](ProtocolSpecification.md)** - Complete I2C protocol details including command format, registers, status flags, and error codes
+1. **[Command Reference](CommandReference.md)** - Detailed reference for each command supported by the protocol
 
 2. **[Integration Guide](IntegrationGuide.md)** - Practical guidance for implementing a compatible turntable including hardware requirements, behavior expectations, and timing constraints
 
-3. **[Command Reference](CommandReference.md)** - Detailed reference for each command supported by the protocol
+3. **[Examples](Examples.md)** - Common communication sequences and example implementations
 
-4. **[Examples](Examples.md)** - Common communication sequences and example implementations
+4. **[Quick Reference](QuickReference.md)** - Quick reference with specs and values
 
 ## Quick Start
 

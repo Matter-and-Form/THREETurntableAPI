@@ -153,15 +153,6 @@ ERROR timeout:                  [0x08][0x0F]
 | CRC failures | Wrong algorithm | Use 0x07 poly, check forward/reverse |
 | Can't reach position | Poor accuracy | Tune ramp, reduce backlash |
 
-## Support Resources
-
-For complete documentation, see:
-- [README.md](README.md) - Overview and getting started
-- [ProtocolSpecification.md](ProtocolSpecification.md) - Complete protocol details
-- [CommandReference.md](CommandReference.md) - Detailed command specifications
-- [IntegrationGuide.md](IntegrationGuide.md) - Implementation guidance
-- [Examples.md](Examples.md) - Code samples and test scenarios
-
 ---
 
 **Version**: 1.0  
